@@ -13,7 +13,7 @@ A list of papers and resources for holistic 3D reconstruction.
 |------------|---------|---------|---------|---------|
 | [PlaneRCNN](https://github.com/NVlabs/planercnn)      | - | - | 100,000 | planes |
 | [Wireframe](https://github.com/huangkuns/wireframe) | - | - | 5,462 | wireframe (2D) |
-| [SUN Primitive](http://3dvision.princeton.edu/projects/2012/SUNprimitive/) | - | - | 785 | cuboids, pyramids, cylinders, spheres, etc. |
+| [SUN Primitive](http://3dvision.princeton.edu/projects/2012/SUNprimitive/) | - | - | 785 | cuboid, pyramid, cylinder, sphere, etc. |
 | LSUN Room Layout | - | n/a | 5,396 | cuboid layout |
 | [PanoContext](http://panocontext.cs.princeton.edu/) | - | n/a | 500 (pano) | cuboid layout |
 | [LayoutNet](https://github.com/zouchuhang/LayoutNet) | - | n/a | 1,071 (pano) | cuboid layout |
