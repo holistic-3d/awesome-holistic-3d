@@ -19,7 +19,7 @@ A list of papers and resources for holistic 3D reconstruction.
 | [LayoutNet](https://github.com/zouchuhang/LayoutNet) | - | n/a | 1,071 (pano) | cuboid layout |
 | MatterportLayout | - | n/a | 2,295 (RGB-D pano) | Manhattan layout |
 | [Raster-to-Vector](https://github.com/art-programmer/FloorplanTransformation) | 870 | - | - | floorplan |
-| [Structured3D](https://structured3d-dataset.org/) | 3,500 | 21,835 | 196,515 | "pritimitve + relationship"|
+| [Structured3D](https://structured3d-dataset.org/) | 3,500 | 21,835 | 196,515 | pritimitves (points/lines/planes) and relationships|
 
 ### Object level
 
@@ -46,7 +46,9 @@ A list of papers and resources for holistic 3D reconstruction.
 - Y. Zhou, H. Qi, Y. Zhai, Q. Sun, Z. Chen, L. Wei, and Y. Ma. Learning to Reconstruct 3D Manhattan Wireframes from a Single Image. In ICCV, 2019.
 - J. Chen, C. Liu, J. Wu, and Y. Furukawa. Floor-SP: Inverse CAD for Floorplans by Sequential Room-wise Shortest Path. In ICCV, 2019.
 - J. Zheng*, J. Zhang*, J. Li*, R. Tang, S. Gao, Z. Zhou.  Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling. arXiv:1908.00222, 2019.
-- C. Liu, K. Kim, J. Gu, Y. Furukawa, and J. Kautz. PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image. In CVPR 2019.
+- C. Liu, K. Kim, J. Gu, Y. Furukawa, and J. Kautz. PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image. In CVPR, 2019.
+- Z. Yu*, J. Zheng*, D. Lian, Z. Zhou, S. Gao. Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding. In CVPR, 2019.
+- Z. Zhang*, Z. Li*, N. Bi, J. Zheng, J. Wang, K. Huang, W. Luo, Y. Xu, S. Gao. PPGNet: Learning Point-Pair Graph for Line Segment Detection. In CVPR, 2019.
 
 2018
 - F. Yang and Z. Zhou. Recovering 3D planes from a single image via convolutional neural networks. In ECCV, 2018.
