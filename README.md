@@ -23,6 +23,16 @@ A list of papers and resources for holistic 3D reconstruction.
 
 ### Object level
 
+| Datasets      |#Images | #Categories | #3D models | Annotated Structures | Notes |
+|------------|---------|---------|---------|---------|---------|
+| [Keypoint-5](http://3dinterpreter.csail.mit.edu/) | 8,649 | 5 | - | keypoints | | 
+| [IKEA Keypoints](http://3dinterpreter.csail.mit.edu/) | 759 | | 219 | keypoints | derived from [IKEA 3D](http://ikea.csail.mit.edu/) |
+| [ANSI Mechanical Component](https://github.com/lingxiaoli94/SPFN) | - | 504 | 17,197 | plane, sphere, cylinder, cone, etc.| |
+| [PartNet](https://cs.stanford.edu/%7Ekaichun/partnet/) | - | 24 | 26,671 | fine-grained, instance-level, and hierarchical 3D parts | derived from ShapeNet |
+| [PartNet-Symh](https://github.com/kevin-kaixu/partnet-symh) | - | 24 | 22,699 | Symmetry hierarchical 3D parts | derived from ShapeNet |
+
 ## References
 
 ### Books
+
+### Papers
