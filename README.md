@@ -139,7 +139,7 @@ A list of papers and resources for holistic 3D reconstruction.
 <img src=figures/PartNet_Symh.jpg>
 </div>
 
-<div align="center">Odd rows:groundtruth fine-grained segmentation results,even rows:prediction fine-grained segmentation rows</div>
+<div align="center">Odd rows:groundtruth fine-grained segmentation results,even rows:prediction fine-grained segmentation results</div>
 
 ## References
 
