@@ -12,6 +12,7 @@ A list of papers and resources for holistic 3D reconstruction.
 | Datasets      |#Scenes| #Rooms | #Frames | Annotated Structures |
 |------------|---------|---------|---------|---------|
 | [PlaneRCNN](https://github.com/NVlabs/planercnn)      | ~1,500 | ~1,500 | 100,000 (randomly sampled from 1 million) | planes |
+| [Replica](https://github.com/facebookresearch/Replica-Dataset) | 18 | n/a | - | planes |
 | [Wireframe](https://github.com/huangkuns/wireframe) | - | - | 5,462 | wireframe (2D) |
 | [Wireframe Reconstruction](https://yichaozhou.com/publication/1811learning/) | synthetic and real images | - | - | wireframe (3D) |
 | [SUN Primitive](http://3dvision.princeton.edu/projects/2012/SUNprimitive/) | - | - | 785 | cuboid, pyramid, cylinder, sphere, etc. |
@@ -19,11 +20,10 @@ A list of papers and resources for holistic 3D reconstruction.
 | [PanoContext](http://panocontext.cs.princeton.edu/) | - | n/a | 500 (pano) | cuboid layout |
 | [LayoutNet](https://github.com/zouchuhang/LayoutNet) | - | n/a | 1,071 (pano) | cuboid layout |
 | MatterportLayout | - | n/a | 2,295 (RGB-D pano) | Manhattan layout |
-| [Raster-to-Vector](https://github.com/art-programmer/FloorplanTransformation) | 870 | - | - | floorplan |
-| [Structured3D](https://structured3d-dataset.org/) | 3,500 | 21,835 | 196,515 | pritimitves (points/lines/planes) and relationships|
-| [Replica](https://github.com/facebookresearch/Replica-Dataset) | 18 | n/a | - | planes |
-| [RIO](https://waldjohannau.github.io/RIO/) | - | - | - | objects |
 | [FloorNet](https://github.com/art-programmer/FloorNet) | ~150 | ~1000 | - | floorplan |
+| [Raster-to-Vector](https://github.com/art-programmer/FloorplanTransformation) | 870 | - | - | floorplan |
+| [RIO](https://waldjohannau.github.io/RIO/) | - | - | - | objects |
+| [Structured3D](https://structured3d-dataset.org/) | 3,500 | 21,835 | 196,515 | pritimitves (points/lines/planes) and relationships, 3D object instance bounding boxes|
 
 ### Object level
 
