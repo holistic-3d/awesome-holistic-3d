@@ -50,7 +50,7 @@ A list of papers and resources for holistic 3D reconstruction.
 <img src=figures/Wireframe.jpg>
 </div>
 
-<div align="center">First row:manually labelled line segments. Second row:groundtruth junctions</div>
+<div align="center">First row:manually labelled line segments.Second row:groundtruth junctions</div>
 
 [Wireframe Reconstruction](https://yichaozhou.com/publication/1811learning/)
 
