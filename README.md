@@ -1,3 +1,5 @@
+
+
 # Holistic 3D Reconstruction
 A list of papers and resources for holistic 3D reconstruction.
 
@@ -16,13 +18,13 @@ A list of papers and resources for holistic 3D reconstruction.
 | [Wireframe](https://github.com/huangkuns/wireframe) | - | - | 5,462 | wireframe (2D) |
 | [Wireframe Reconstruction](https://yichaozhou.com/publication/1811learning/) | synthetic and real images | - | - | wireframe (3D) |
 | [SUN Primitive](http://3dvision.princeton.edu/projects/2012/SUNprimitive/) | - | - | 785 | cuboid, pyramid, cylinder, sphere, etc. |
-| [LSUN Room Layout](https://github.com/leVirve/lsun-room) | - | n/a | 5,396 | cuboid layout |
+| LSUN Room Layout | - | n/a | 5,396 | cuboid layout |
 | [PanoContext](http://panocontext.cs.princeton.edu/) | - | n/a | 500 (pano) | cuboid layout |
 | [LayoutNet](https://github.com/zouchuhang/LayoutNet) | - | n/a | 1,071 (pano) | cuboid layout |
-| MatterportLayout | - | n/a | 2,295 (RGB-D pano) | Manhattan layout |
+| [MatterportLayout](https://github.com/ericsujw/Matterport3DLayoutAnnotation) | - | n/a | 2,295 (RGB-D pano) | Manhattan layout |
 | [FloorNet](https://github.com/art-programmer/FloorNet) | ~150 | ~1000 | - | floorplan |
 | [Raster-to-Vector](https://github.com/art-programmer/FloorplanTransformation) | 870 | - | - | floorplan |
-| [RIO](https://waldjohannau.github.io/RIO/) | - | - | - | objects |
+| [3RScan](https://waldjohannau.github.io/RIO/) | 478 | - | - | objects |
 | [Structured3D](https://structured3d-dataset.org/) | 3,500 | 21,835 | 196,515 | pritimitves (points/lines/planes) and relationships, 3D object instance bounding boxes|
 
 ### Object level
@@ -33,7 +35,7 @@ A list of papers and resources for holistic 3D reconstruction.
 | [IKEA Keypoints](http://3dinterpreter.csail.mit.edu/) | 759 | | 219 | keypoints | derived from [IKEA 3D](http://ikea.csail.mit.edu/) |
 | [ANSI Mechanical Component](https://github.com/lingxiaoli94/SPFN) | - | 504 | 17,197 | plane, sphere, cylinder, cone, etc.| |
 | [PartNet](https://cs.stanford.edu/%7Ekaichun/partnet/) | - | 24 | 26,671 | fine-grained, instance-level, and hierarchical 3D parts | derived from ShapeNet |
-| [PartNet-Symh](https://github.com/kevin-kaixu/partnet-symh) | - | 24 | 22,699 | Symmetry hierarchical 3D parts | derived from ShapeNet |
+| [PartNet-Symh](https://github.com/kevin-kaixu/partnet-symh) | - | 24 | 22,369 | Symmetry hierarchical 3D parts | derived from ShapeNet |
 
 ### Datasets examples
 [PlaneRCNN](https://github.com/NVlabs/planercnn)
@@ -155,6 +157,8 @@ A list of papers and resources for holistic 3D reconstruction.
 - Y. Zhou, H. Qi, and Y. Ma. End-to-End Wireframe Parsing. In ICCV, 2019. [[project](https://github.com/zhou13/lcnn)]
 - Y. Zhou, H. Qi, Y. Zhai, Q. Sun, Z. Chen, L. Wei, and Y. Ma. Learning to Reconstruct 3D Manhattan Wireframes from a Single Image. In ICCV, 2019. [[project](https://arxiv.org/abs/1905.07482)]
 - J. Chen, C. Liu, J. Wu, and Y. Furukawa. Floor-SP: Inverse CAD for Floorplans by Sequential Room-wise Shortest Path. In ICCV, 2019. [[project](https://github.com/woodfrog/floor-sp)]
+- J. Wald, A. Avetisyan, N. Navab, F. Tombari, and M. Niessner. RIO: 3D Object Instance Re-Localization in Changing Indoor Environments. In ICCV, 2019. [[project](https://waldjohannau.github.io/RIO/)]
+- C. Zou*, J.-W. Su*, C.-H. Peng, A. Colburn, Q. Shan, P. Wonka, H.-K. Chu, and D. Hoiem. 3D Manhattan Room Layout Reconstruction from a Single 360 Image, 2019. arXiv:1910.04099, 2019. [[project](https://github.com/ericsujw/Matterport3DLayoutAnnotation)]
 - J. Zheng*, J. Zhang*, J. Li*, R. Tang, S. Gao, Z. Zhou.  Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling. arXiv:1908.00222, 2019. [[project](https://structured3d-dataset.org/)]
 - C. Liu, K. Kim, J. Gu, Y. Furukawa, and J. Kautz. PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image. In CVPR, 2019. [[project](https://research.nvidia.com/publication/2019-06_PlaneRCNN)]
 - Z. Yu*, J. Zheng*, D. Lian, Z. Zhou, S. Gao. Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding. In CVPR, 2019. [[project](https://github.com/svip-lab/PlanarReconstruction)]
@@ -164,7 +168,7 @@ A list of papers and resources for holistic 3D reconstruction.
 - F. Yang and Z. Zhou. Recovering 3D planes from a single image via convolutional neural networks. In ECCV, 2018. [[project](https://github.com/fuy34/planerecover)]
 - H. Zeng, J. Wu, and Y. Furukawa. Neural Procedural Reconstruction for Residential Buildings. In ECCV, 2018. [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Huayi_Zeng_Neural_Procedural_Reconstruction_ECCV_2018_paper.pdf)]
 - C. Liu*, J. Yu*, and Y. Furukawa. FloorNet: A Unified Framework for Floorplan Reconstruction from 3D Scans. In ECCV 2018. [[project](https://github.com/art-programmer/FloorNet)]
-- C. Zou, A. Colburn, Q. Shan, and D. Hoiem. Layoutnet: Reconstructing the 3d room layout from a single RGB image. In CVPR, 2018. [[project](https://github.com/zouchuhang/LayoutNet)]
+- C. Zou, A. Colburn, Q. Shan, and D. Hoiem. LayoutNet: Reconstructing the 3d room layout from a single RGB image. In CVPR, 2018. [[project](https://github.com/zouchuhang/LayoutNet)]
 - C. Niu, J. Li, and K. Xu. Im2struct: Recovering 3d shape structure from a single RGB image. In CVPR, 2018. [[project](https://github.com/chengjieniu/Im2Struct)]
 - C. Liu, J. Yang, D. Ceylan, E. Yumer, and Y. Furukawa. PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image. In CVPR, 2018. [[project](https://github.com/art-programmer/PlaneNet)]
 - K. Huang, Y. Wang, Z. Zhou, T. Ding, S. Gao, and Y. Ma. Learning to parse wireframes in images of man-made environments. In CVPR, 2018. [[project](https://github.com/huangkuns/wireframe)]
@@ -172,7 +176,7 @@ A list of papers and resources for holistic 3D reconstruction.
 
 2017
 - C. Liu, J. Wu, P. Kohli, and Y. Furukawa. Raster-to-Vector: Revisiting Floorplan Transformation. In ICCV, 2017. [[project](https://github.com/art-programmer/FloorplanTransformation)]
-- C. Lee, V. Badrinarayanan, T. Malisiewicz, and A. Rabinovich. Roomnet: End-to-end room layout estimation. In ICCV, 2017. [[paper](https://arxiv.org/abs/1703.06241)]
+- C. Lee, V. Badrinarayanan, T. Malisiewicz, and A. Rabinovich. RoomNet: End-to-end room layout estimation. In ICCV, 2017. [[paper](https://arxiv.org/abs/1703.06241)]
 - S. Tulsiani, H. Su, L. J. Guibas, A. A. Efros, and J. Malik. Learning Shape Abstractions by Assembling Volumetric Primitives. In CVPR, 2017. [[project](https://shubhtuls.github.io/volumetricPrimitives/)]
 - H. Izadinia, Q. Shan, S. M. Seitz. IM2CAD. In CVPR, 2017. [[project](https://homes.cs.washington.edu/~izadinia/im2cad.html)]
 - E. Wijmans and Y. Furukawa. Exploiting 2D Floorplan for Building-scale Panorama RGBD Alignment. In CVPR, 2017. [[project](https://cvpr17.wijmans.xyz/)]
@@ -180,7 +184,7 @@ A list of papers and resources for holistic 3D reconstruction.
 2016
 - C. Zhu, Z. Zhou, Z. Xing, Y. Dong, Y. Ma, and J. Yu. Robust Plane-based Calibration of Multiple Non-Overlapping Cameras. In 3DV, 2016. [[paper](https://faculty.ist.psu.edu/zzhou/paper/3dv16-calibration.pdf)]
 - C. Liu, P. Kohli, and Y. Furukawa. Layered Scene Decomposition via the Occlusion-CRF. In CVPR, 2016. [[project](https://sites.wustl.edu/chenliu/layered-scene/)]
-- S. Dasgupta, K. Fang, K. Chen, and S. Savarese. Delay: Robust spatial layout estimation for cluttered indoor scenes. In CVPR, 2016. [[paper](https://www.google.com/search?q=Delay%3A+Robust+spatial+layout+estimation+for+cluttered+indoor+scenes&oq=Delay%3A+Robust+spatial+layout+estimation+for+cluttered+indoor+scenes&aqs=chrome..69i57j69i58.406j0j4&sourceid=chrome&ie=UTF-8)]
+- S. Dasgupta, K. Fang, K. Chen, and S. Savarese. Delay: Robust spatial layout estimation for cluttered indoor scenes. In CVPR, 2016. [[paper](http://cvgl.stanford.edu/papers/delay-robust-spatial.pdf)]
 
 2015
 - S. Ikehata, H. Yan, and Y. Furukawa. Structured Indoor Modeling. In ICCV, 2015. [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ikehata_Structured_Indoor_Modeling_ICCV_2015_paper.pdf)]
