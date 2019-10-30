@@ -1,5 +1,3 @@
-
-
 # Holistic 3D Reconstruction
 A list of papers and resources for holistic 3D reconstruction.
 
@@ -35,7 +33,7 @@ A list of papers and resources for holistic 3D reconstruction.
 | [IKEA Keypoints](http://3dinterpreter.csail.mit.edu/) | 759 | | 219 | keypoints | derived from [IKEA 3D](http://ikea.csail.mit.edu/) |
 | [ANSI Mechanical Component](https://github.com/lingxiaoli94/SPFN) | - | 504 | 17,197 | plane, sphere, cylinder, cone, etc.| |
 | [PartNet](https://cs.stanford.edu/%7Ekaichun/partnet/) | - | 24 | 26,671 | fine-grained, instance-level, and hierarchical 3D parts | derived from ShapeNet |
-| [PartNet-Symh](https://github.com/kevin-kaixu/partnet-symh) | - | 24 | 22,369 | Symmetry hierarchical 3D parts | derived from ShapeNet |
+| [PartNet-Symh](https://github.com/FoggYu/PartNet_symh/) | - | 24 | 22,369 | Symmetry hierarchical 3D parts | derived from PartNet |
 
 ### Datasets examples
 [PlaneRCNN](https://github.com/NVlabs/planercnn)
@@ -44,7 +42,7 @@ A list of papers and resources for holistic 3D reconstruction.
 <img src=figures/PlaneRCNN.jpg>
 </div>
 
-<div align="center">From left to right:input RGB image,planar segmentation,depthmap</div>
+<div align="center">From left to right: input RGB image, planar segmentation, depthmap</div>
 
 [Wireframe](https://github.com/huangkuns/wireframe)
 
@@ -52,7 +50,7 @@ A list of papers and resources for holistic 3D reconstruction.
 <img src=figures/Wireframe.jpg>
 </div>
 
-<div align="center">First row:manually labelled line segments.Second row:groundtruth junctions</div>
+<div align="center">First row: manually labelled line segments. Second row: groundtruth junctions</div>
 
 [Wireframe Reconstruction](https://yichaozhou.com/publication/1811learning/)
 
@@ -60,7 +58,7 @@ A list of papers and resources for holistic 3D reconstruction.
 <img src=figures/Wireframe_reconstruction.jpg>
 </div>
 
-<div align="center">From left column to right column:input image with groundtruth wireframes,predicted 3D wireframe and alternative view of the same image</div>
+<div align="center">From left column to right column: input image with groundtruth wireframes, predicted 3D wireframe and alternative view of the same image</div>
 
 [SUN Primitive](http://3dvision.princeton.edu/projects/2012/SUNprimitive/)
 
@@ -68,15 +66,15 @@ A list of papers and resources for holistic 3D reconstruction.
 <img src=figures/SUN_Primitive.jpg>
 </div>
 
-<div align="center">Yellow:groundtruth, green:correct detection, red:false alarm</div>
+<div align="center">Yellow: groundtruth, green: correct detection, red: false alarm</div>
 
-[LSUN Room Layout](https://github.com/leVirve/lsun-room)
+LSUN Room Layout
 
 <div align="center">
-<img src=figures/LSUN_room.jpg>
+<img src=figures/LSUN_layout.png>
 </div>
 
-<div align="center">Left:input RGB image,right:groundtruth room layout</div>
+<div align="center">From left right: input RGB image, room layout (corner-representation), room layout (segmentation-representation)</div>
 
 [PanoContext](http://panocontext.cs.princeton.edu/)
 
@@ -84,7 +82,7 @@ A list of papers and resources for holistic 3D reconstruction.
 <img src=figures/PanoContext.jpg>
 </div>
 
-<div align="center">From left to right:a single-view panorama,object detection and 3D reconstruction</div>
+<div align="center">From left to right: a single-view panorama, object detection and 3D reconstruction</div>
 
 [LayoutNet](https://github.com/zouchuhang/LayoutNet)
 
@@ -92,7 +90,7 @@ A list of papers and resources for holistic 3D reconstruction.
 <img src=figures/LayoutNet.jpg>
 </div>
 
-<div align="center">Orange lines:predicted layout,Green lines:groundtruth layout</div>
+<div align="center">Orange lines: predicted layout, Green lines: groundtruth layout</div>
 
 [Raster-to-Vector](https://github.com/art-programmer/FloorplanTransformation)
 
@@ -100,7 +98,7 @@ A list of papers and resources for holistic 3D reconstruction.
 <img src=figures/Raster_to_vector.jpg>
 </div>
 
-<div align="center">From left to right:an input floorplan image, reconstructed vector-graphics representation visualized by custom renderer, and a popup 3D model</div>
+<div align="center">From left to right: an input floorplan image, reconstructed vector-graphics representation visualized by custom renderer, and a popup 3D model</div>
 
 [Structured3D](https://structured3d-dataset.org/)
 
@@ -108,7 +106,7 @@ A list of papers and resources for holistic 3D reconstruction.
 <img src=figures/Structured3D.jpg>
 </div>
 
-<div align="center">(a)house designs (b)ground truth 3D structure annotations (c)photo-realistic 2D images</div>
+<div align="center">(a) house designs (b) ground truth 3D structure annotations (c) photo-realistic 2D images</div>
 
 [Keypoint-5](http://3dinterpreter.csail.mit.edu/) and [IKEA Keypoints](http://3dinterpreter.csail.mit.edu/)
 
@@ -117,7 +115,7 @@ A list of papers and resources for holistic 3D reconstruction.
 <img src=figures/Keypoints_5_label.jpeg>
 </div>
 
-<div align="center">Left:input image,right:labeled 2D keypoints</div>
+<div align="center">Left: input image, right: labeled 2D keypoints</div>
 
 [ANSI Mechanical Component](https://github.com/lingxiaoli94/SPFN)
 
@@ -125,7 +123,7 @@ A list of papers and resources for holistic 3D reconstruction.
 <img src=figures/ANSI.jpg>
 </div>
 
-<div align="center">Up to down:input point cloud and geometric primitives</div>
+<div align="center">Up to down: input point cloud and geometric primitives</div>
 
 [PartNet](https://cs.stanford.edu/%7Ekaichun/partnet/)
 
@@ -135,13 +133,13 @@ A list of papers and resources for holistic 3D reconstruction.
 
 <div align="center">From left column to right column:Three levels(from coarse to fine-grained) of segmentation annotations in the hierarchy,for three segmentation tasks</div>
 
-[PartNet-Symh](https://github.com/kevin-kaixu/partnet-symh)
+[PartNet-Symh](https://github.com/FoggYu/PartNet_symh/)
 
 <div align="center">
 <img src=figures/PartNet_Symh.jpg>
 </div>
 
-<div align="center">Odd rows:groundtruth fine-grained segmentation results,even rows:prediction fine-grained segmentation results</div>
+<div align="center">Odd rows: groundtruth fine-grained segmentation results, even rows: prediction fine-grained segmentation results</div>
 
 ## References
 
@@ -230,5 +228,3 @@ A list of papers and resources for holistic 3D reconstruction.
 - J. Malik. Interpreting line drawings of curved objects. IJCV, 1987. [[paper](https://people.eecs.berkeley.edu/~malik/papers/malik87.pdf)]
 - A. P. Witkin and J. M. Tenenbaum. On the role of structure in vision. In J. Beck, B. Hope, and A. Rosenfeld, editors, Human and Machine Vision, pages 481–543. Academic Press, 1983. [[paper](http://cvcl.mit.edu/SUNSeminar/BarenholtzTarr_2007.pdf)]
 - K. Sugihara. Mathematical structures of line drawings of polyhedrons-toward man-machine communication by means of line drawings. IEEE TPAMI, 1982. [[paper](https://ieeexplore.ieee.org/document/4767289)]
-
-
