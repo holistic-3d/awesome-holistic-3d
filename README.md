@@ -71,7 +71,7 @@ A list of papers and resources for holistic 3D reconstruction.
 LSUN Room Layout
 
 <div align="center">
-<img src=figures/LSUN_layout.png>
+<img src=figures/LSUN_room.png>
 </div>
 
 <div align="center">From left right: input RGB image, room layout (corner-representation), room layout (segmentation-representation)</div>
