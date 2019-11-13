@@ -20,6 +20,7 @@ A list of papers and resources for holistic 3D reconstruction.
 | [PanoContext](http://panocontext.cs.princeton.edu/) | - | n/a | 500 (pano) | cuboid layout |
 | [LayoutNet](https://github.com/zouchuhang/LayoutNet) | - | n/a | 1,071 (pano) | cuboid layout |
 | [MatterportLayout](https://github.com/ericsujw/Matterport3DLayoutAnnotation) | - | n/a | 2,295 (RGB-D pano) | Manhattan layout |
+| [Floor-SP](https://github.com/woodfrog/floor-sp) | 100 | 707 | ~1500 (every scene has a set of RGB-D pano) | floorplan (with non-Manhattan structures) |
 | [FloorNet](https://github.com/art-programmer/FloorNet) | ~150 | ~1000 | - | floorplan |
 | [Raster-to-Vector](https://github.com/art-programmer/FloorplanTransformation) | 870 | - | - | floorplan |
 | [3RScan](https://waldjohannau.github.io/RIO/) | 478 | - | - | objects |
@@ -99,6 +100,14 @@ LSUN Room Layout
 </div>
 
 <div align="center">From left to right: an input floorplan image, reconstructed vector-graphics representation visualized by custom renderer, and a popup 3D model</div>
+
+[Floor-SP](https://github.com/woodfrog/floor-sp)
+
+<div align="center">
+<img src=figures/Floor-SP.png>
+</div>
+
+<div align="center">From left to right: stitched RGB-D panorama of indoor scenes, top-view point density/normal map, vector-graphics floorplan with non-Manhattan structures</div>
 
 [Structured3D](https://structured3d-dataset.org/)
 
