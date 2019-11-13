@@ -107,7 +107,7 @@ LSUN Room Layout
 <img src=figures/Floor-SP.png>
 </div>
 
-<div align="center">From left to right: stitched RGB-D panorama of indoor scenes, top-view point density/normal map, vector-graphics floorplan with non-Manhattan structures</div>
+<div align="center">From left to right: stitched RGB-D panorama of indoor scenes & top-view point density/normal map, vector-graphics floorplan with non-Manhattan structures</div>
 
 [Structured3D](https://structured3d-dataset.org/)
 
