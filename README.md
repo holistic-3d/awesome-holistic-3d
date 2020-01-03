@@ -157,7 +157,7 @@ LSUN Room Layout
 - Y. Ma, S. Soatto, J. Kosecka, and S. S. Sastry. An Invitation to 3D Vision: From Images to Geometric Models. Springer Verlag, 2003.
 - R. I. Hartley and A. Zisserman. Multiple View Geometry in Computer Vision. Cambridge University Press, 2000.
 
-### Papers
+### Papers - Scene level
 
 2019
 - Y. Zhou, H. Qi, and Y. Ma. NeurVPS: Neural Vanishing Point Scanning via Conic Convolution. In NeurIPS, 2019.  [[project](https://github.com/zhou13/neurvps)]
@@ -176,15 +176,12 @@ LSUN Room Layout
 - H. Zeng, J. Wu, and Y. Furukawa. Neural Procedural Reconstruction for Residential Buildings. In ECCV, 2018. [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Huayi_Zeng_Neural_Procedural_Reconstruction_ECCV_2018_paper.pdf)]
 - C. Liu*, J. Yu*, and Y. Furukawa. FloorNet: A Unified Framework for Floorplan Reconstruction from 3D Scans. In ECCV 2018. [[project](https://github.com/art-programmer/FloorNet)]
 - C. Zou, A. Colburn, Q. Shan, and D. Hoiem. LayoutNet: Reconstructing the 3d room layout from a single RGB image. In CVPR, 2018. [[project](https://github.com/zouchuhang/LayoutNet)]
-- C. Niu, J. Li, and K. Xu. Im2struct: Recovering 3d shape structure from a single RGB image. In CVPR, 2018. [[project](https://github.com/chengjieniu/Im2Struct)]
 - C. Liu, J. Yang, D. Ceylan, E. Yumer, and Y. Furukawa. PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image. In CVPR, 2018. [[project](https://github.com/art-programmer/PlaneNet)]
 - K. Huang, Y. Wang, Z. Zhou, T. Ding, S. Gao, and Y. Ma. Learning to parse wireframes in images of man-made environments. In CVPR, 2018. [[project](https://github.com/huangkuns/wireframe)]
-- J. Wu, T. Xue, J. J. Lim, Y. Tian, J. B. Tenenbaum, A. Torralba, and W. T. Freeman. 3d interpreter networks for viewer centered wireframe modeling. IJCV, 2018. [[paper](https://arxiv.org/abs/1804.00782)]
 
 2017
 - C. Liu, J. Wu, P. Kohli, and Y. Furukawa. Raster-to-Vector: Revisiting Floorplan Transformation. In ICCV, 2017. [[project](https://github.com/art-programmer/FloorplanTransformation)]
 - C. Lee, V. Badrinarayanan, T. Malisiewicz, and A. Rabinovich. RoomNet: End-to-end room layout estimation. In ICCV, 2017. [[paper](https://arxiv.org/abs/1703.06241)]
-- S. Tulsiani, H. Su, L. J. Guibas, A. A. Efros, and J. Malik. Learning Shape Abstractions by Assembling Volumetric Primitives. In CVPR, 2017. [[project](https://shubhtuls.github.io/volumetricPrimitives/)]
 - H. Izadinia, Q. Shan, S. M. Seitz. IM2CAD. In CVPR, 2017. [[project](https://homes.cs.washington.edu/~izadinia/im2cad.html)]
 - E. Wijmans and Y. Furukawa. Exploiting 2D Floorplan for Building-scale Panorama RGBD Alignment. In CVPR, 2017. [[project](https://cvpr17.wijmans.xyz/)]
 
@@ -226,7 +223,6 @@ LSUN Room Layout
 - V. Hedau, D. Hoiem, and D. A. Forsyth. Recovering the spatial layout of cluttered rooms. In ICCV, 2009. [[paper](http://dhoiem.cs.illinois.edu/publications/iccv2009_hedau_indoor.pdf)]
 - Y. Furukawa, B. Curless, S. M. Seitz, and R. Szeliski. Manhattan-world stereo. In CVPR, 2009. [[paper](http://grail.cs.washington.edu/projects/manhattan/manhattan.pdf)]
 - D.C. Lee, M. Hebert, and T. Kanade. Geometric Reasoning for Single Image Structure Recovery. In CVPR, 2009. [[paper](https://www.ri.cmu.edu/pub_files/2009/6/cvpr09lee.pdf)]
-- M. Pauly, N. J. Mitra, J. Wallner, H. Pottmann, and L. J. Guibas. Discovering Structural Regularity in 3D Geometry. SIGGRAPH, 2008. [[paper](https://lgg.epfl.ch/publications/2008/pauly_2008_DSR.pdf)]
 - G. Schindler, P. Krishnamurthy, R. Lublinerman, Y. Liu, and F. Dellaert. Detecting and Matching Repeated Patterns for Automatic Geo-tagging in Urban Environments. In CVPR, 2008. [[paper](https://www.ri.cmu.edu/pub_files/pub4/schindler_grant_2008_1/schindler_grant_2008_1.pdf)]
 - B. Micusik, H. Wildenauer, and J. Kosecka. Detection and matching of rectilinear structures. In CVPR, 2008. [[paper](https://ieeexplore.ieee.org/document/4587488)]
 - D. Hoiem, A. A. Efros, and M. Hebert. Recovering surface layout from an image. IJCV, 2007. [[paper](http://dhoiem.cs.illinois.edu/publications/hoiem_ijcv2007SurfaceLayout.pdf)]
@@ -234,6 +230,31 @@ LSUN Room Layout
 - J. M. Coughlan and A. L. Yuille. Manhattan world: Orientation and outlier detection by bayesian inference. Neural Computation, 2003. [[paper](https://ieeexplore.ieee.org/document/6790299)]
 - A. Bartoli and P. Sturm. Constrained structure and motion from multiple uncalibrated views of a piecewise planar scene. IJCV, 2003. [[paper](https://link.springer.com/article/10.1023/A:1022318524906)]
 - J. Kosecka, and W. Zhang. Video Compass. In ECCV, 2002. [[paper](https://link.springer.com/chapter/10.1007/3-540-47979-1_32)]
-- J. Malik. Interpreting line drawings of curved objects. IJCV, 1987. [[paper](https://people.eecs.berkeley.edu/~malik/papers/malik87.pdf)]
 - A. P. Witkin and J. M. Tenenbaum. On the role of structure in vision. In J. Beck, B. Hope, and A. Rosenfeld, editors, Human and Machine Vision, pages 481–543. Academic Press, 1983. [[paper](http://cvcl.mit.edu/SUNSeminar/BarenholtzTarr_2007.pdf)]
+
+### Papers - Object level
+
+2019
+- K. Mo, P. Guerrero, L. Yi, H. Su, P. Wonka, N. J. Mitra, and L. Guibas. StructureNet: Hierarchical Graph Networks for 3D Shape Generation. arXiv:1908.00575, 2019.  
+- D. Paschalidou, A. O. Ulusoy, and A. Geiger. Superquadrics Revisited: Learning 3D Shape Parsing beyond Cuboids. In CVPR, 2019.
+- L. Li, M. Sung, A. Dubrovina, L. Yi, and L. Guibas. Supervised Fitting of Geometric Primitives to 3D Point Clouds. In CVPR, 2019.
+
+2018
+- C. Niu, J. Li, and K. Xu. Im2struct: Recovering 3d shape structure from a single RGB image. In CVPR, 2018. [[project](https://github.com/chengjieniu/Im2Struct)]
+- J. Wu, T. Xue, J. J. Lim, Y. Tian, J. B. Tenenbaum, A. Torralba, and W. T. Freeman. 3d interpreter networks for viewer centered wireframe modeling. IJCV, 2018. [[paper](https://arxiv.org/abs/1804.00782)]
+
+2017
+- S. Tulsiani, H. Su, L. J. Guibas, A. A. Efros, and J. Malik. Learning Shape Abstractions by Assembling Volumetric Primitives. In CVPR, 2017. [[project](https://shubhtuls.github.io/volumetricPrimitives/)]
+
+2013
+- N. J. Mitra, M. Wand, H. Zhang, D. Cohen-Or, M. Bokeloh. Structure-Aware Shape Processing. IN EUROGRAPHICS, 2013.
+
+2011
+- Y. Li, X. Wu, Y. Chrysathou, A. Sharf, D. Cohen-Or, N. J. Mitra. GlobFit: Consistently Fitting Primitives by Discovering Global Relations. In SIGGRAPH, 2011.
+
+2010 and before
+- M. Bokeloh, A. Berner, M. Wand, H. P. Seidel, and A. Schilling. Symmetry Detection Using Feature Lines. In EUROGRAPHICS, 2009.
+- M. Pauly, N. J. Mitra, J. Wallner, H. Pottmann, and L. J. Guibas. Discovering Structural Regularity in 3D Geometry. SIGGRAPH, 2008. [[paper](https://lgg.epfl.ch/publications/2008/pauly_2008_DSR.pdf)]
+- N. J. Mitra, L. Guibas, and M. Pauly. Partial and Approximate Symmetry Detection for 3D Geometry. ACM ToG, 2006.
+- J. Malik. Interpreting line drawings of curved objects. IJCV, 1987. [[paper](https://people.eecs.berkeley.edu/~malik/papers/malik87.pdf)]
 - K. Sugihara. Mathematical structures of line drawings of polyhedrons-toward man-machine communication by means of line drawings. IEEE TPAMI, 1982. [[paper](https://ieeexplore.ieee.org/document/4767289)]
