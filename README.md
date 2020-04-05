@@ -1,9 +1,11 @@
 # Holistic 3D Reconstruction
 A list of papers and resources for holistic 3D reconstruction.
 
-## Related Tutorials and Courses
+## Related Tutorials and Workshops
 
+ - ECCV 2020 Workshop: [Holistic Scene Structures for 3D Vision](https://holistic-3d.github.io/eccv20/)
  - ICCV 2019 Tutorial: [Holistic 3D Reconstruction: Learning to Reconstruct Holistic 3D Structures from Sensorial Data](https://holistic-3d.github.io/iccv19/)
+
  
 ## Datasets
 
