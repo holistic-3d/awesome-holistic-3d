@@ -181,11 +181,11 @@ LSUN Room Layout
 - C. Zou, A. Colburn, Q. Shan, and D. Hoiem. LayoutNet: Reconstructing the 3d room layout from a single RGB image. In CVPR, 2018. [[project](https://github.com/zouchuhang/LayoutNet)]
 - C. Liu, J. Yang, D. Ceylan, E. Yumer, and Y. Furukawa. PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image. In CVPR, 2018. [[project](https://github.com/art-programmer/PlaneNet)]
 - K. Huang, Y. Wang, Z. Zhou, T. Ding, S. Gao, and Y. Ma. Learning to parse wireframes in images of man-made environments. In CVPR, 2018. [[project](https://github.com/huangkuns/wireframe)]
-- H. Fang, F. Lafarge and M. Desbrun. Planar Shape Detection at Structural Scales. In CVPR, 2018.
+- H. Fang, F. Lafarge and M. Desbrun. Planar Shape Detection at Structural Scales. In CVPR, 2018. [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Fang_Planar_Shape_Detection_CVPR_2018_paper.html)]
 
 
 2017
-- L. Nan and P. Wonka. PolyFit: Polygonal Surface Reconstruction from Point Clouds. In ICCV, 2017.
+- L. Nan and P. Wonka. PolyFit: Polygonal Surface Reconstruction from Point Clouds. In ICCV, 2017. [[project](https://github.com/LiangliangNan/PolyFit)]
 - C. Liu, J. Wu, P. Kohli, and Y. Furukawa. Raster-to-Vector: Revisiting Floorplan Transformation. In ICCV, 2017. [[project](https://github.com/art-programmer/FloorplanTransformation)]
 - C. Lee, V. Badrinarayanan, T. Malisiewicz, and A. Rabinovich. RoomNet: End-to-end room layout estimation. In ICCV, 2017. [[paper](https://arxiv.org/abs/1703.06241)]
 - H. Izadinia, Q. Shan, and S. M. Seitz. IM2CAD. In CVPR, 2017. [[project](https://homes.cs.washington.edu/~izadinia/im2cad.html)]
@@ -197,7 +197,7 @@ LSUN Room Layout
 - C. Zhu, Z. Zhou, Z. Xing, Y. Dong, Y. Ma, and J. Yu. Robust Plane-based Calibration of Multiple Non-Overlapping Cameras. In 3DV, 2016. [[paper](https://faculty.ist.psu.edu/zzhou/paper/3dv16-calibration.pdf)]
 - C. Liu, P. Kohli, and Y. Furukawa. Layered Scene Decomposition via the Occlusion-CRF. In CVPR, 2016. [[project](https://sites.wustl.edu/chenliu/layered-scene/)]
 - S. Dasgupta, K. Fang, K. Chen, and S. Savarese. Delay: Robust spatial layout estimation for cluttered indoor scenes. In CVPR, 2016. [[paper](http://cvgl.stanford.edu/papers/delay-robust-spatial.pdf)]
-- S. Oesau, F. Lafarge and P. Alliez. Planar Shape Detection and Regularization in Tandem. Computer Graphics Forum, 2016.
+- S. Oesau, F. Lafarge and P. Alliez. Planar Shape Detection and Regularization in Tandem. Computer Graphics Forum, 2016. [[paper](https://geometry.cs.ucl.ac.uk/projects/2017/bigsur/paper_docs/paper.pdf)]
 
 2015
 - S. Ikehata, H. Yan, and Y. Furukawa. Structured Indoor Modeling. In ICCV, 2015. [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ikehata_Structured_Indoor_Modeling_ICCV_2015_paper.pdf)]
@@ -207,20 +207,20 @@ LSUN Room Layout
 2014
 - D. F. Fouhey, A. Gupta, and M. Hebert. Unfolding an indoor origami world. In ECCV, 2014. [[paper](https://ri.cmu.edu/pub_files/2014/7/dfouhey_origami.pdf)]
 - R. Cabral and Y. Furukawa. Piecewise Planar and Compact Floorplan Reconstruction from Images. In CVPR 2014. [[paper](https://www.andrew.cmu.edu/user/rcabral/CabralFurukawaCVPR2014.pdf)]
-- D. Ceylan, N. J. Mitra, Y. Zheng, M. Pauly. Coupled Structure-from-Motion and 3D Symmetry Detection for Urban Facades. ACM Transactions on Graphics, 2014.
+- D. Ceylan, N. J. Mitra, Y. Zheng, M. Pauly. Coupled Structure-from-Motion and 3D Symmetry Detection for Urban Facades. ACM Transactions on Graphics, 2014. [[paper](http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/symm_facade/paper_docs/symmCalibrate_reduced.pdf)]
 
 2013
 - S. Ramalingam and M. Brand. Lifting 3D manhattan lines from a single image. In ICCV, 2013. [[paper](https://www.merl.com/publications/docs/TR2013-110.pdf)]
 - S. Ramalingam, J. K. Pillai, A. Jain, and Y. Taguchi. Manhattan junction catalogue for spatial reasoning of indoor scenes. In CVPR, 2013. [[paper](https://ieeexplore.ieee.org/document/6619238)]
 - Z. Zhou, H. Jin, and Y. Ma. Plane-Based Content-Preserving Warps for Video Stabilization. In CVPR, 2013. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Zhou_Plane-Based_Content_Preserving_2013_CVPR_paper.pdf)]
-- N. J. Mitra, M. Pauly, M. Wand, and D. Ceylan. Symmetry in 3D Geometry: Extraction and Applications. Computer Graphics Forum, 2013.
+- N. J. Mitra, M. Pauly, M. Wand, and D. Ceylan. Symmetry in 3D Geometry: Extraction and Applications. Computer Graphics Forum, 2013. [[paper](https://englishformaths.files.wordpress.com/2016/02/symmetrystar_small_eg12.pdf)]
 
 2012
 - J. Xiao, B. C. Russell, and A. Torralba. Localizing 3d cuboids in single-view images. In NIPS, 2012. [[paper](http://papers.nips.cc/paper/4842-localizing-3d-cuboids-in-single-view-images.pdf)]
 - J. Xiao and Y. Furukawa. Reconstructing the World's Museums. In ECCV, 2012. [[paper](https://vision.princeton.edu/projects/2012/museum/paper.pdf)]
 - Z. Zhou, H. Jin, and Y. Ma. Robust Plane-Based Structure From Motion. In CVPR, 2012. [[paper](https://faculty.ist.psu.edu/zzhou/paper/1442.pdf)]
-- A. Cohen, C. Zach, S. N. Sinha and M. Pollefeys. Discovering and exploiting 3D symmetries in structure from motion. In CVPR, 2012.
-- C. A. Vanegas, D. G. Aliaga, and B. Benes. Automatic Extraction of Manhattan-World Building Masses from 3D Laser Range Scans. IEEE TVCG, 2012.
+- A. Cohen, C. Zach, S. N. Sinha and M. Pollefeys. Discovering and exploiting 3D symmetries in structure from motion. In CVPR, 2012. [[paper](https://snsinha.github.io/pdfs/CohenCVPR2012.pdf)]
+- C. A. Vanegas, D. G. Aliaga, and B. Benes. Automatic Extraction of Manhattan-World Building Masses from 3D Laser Range Scans. IEEE TVCG, 2012. [[paper](https://ieeexplore.ieee.org/document/6143940)]
 
 2011
 - H. Mobahi, Z. Zhou, A. Y. Yang, and Y. Ma. Holistic Reconstruction of Urban Structures from Low-rank Textures. In ICCV-3dRR, 2011. [[paper](https://ieeexplore.ieee.org/abstract/document/6130297)]
@@ -266,7 +266,7 @@ LSUN Room Layout
 - N. J. Mitra, M. Wand, H. Zhang, D. Cohen-Or, and M. Bokeloh. Structure-Aware Shape Processing. In EUROGRAPHICS, 2013. [[project](http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/structure_survey/structureSurvey_eg13.html)]
 
 2012
-- S. N. Sinha, K. Ramnath, and R. Szeliski. Detecting and Reconstructing 3D Mirror Symmetric Objects. In ECCV, 2012.
+- S. N. Sinha, K. Ramnath, and R. Szeliski. Detecting and Reconstructing 3D Mirror Symmetric Objects. In ECCV, 2012. [[paper](https://snsinha.github.io/pdfs/SinhaECCV2012.pdf)]
 - T. Xue, Y. Li, J. Liu, and X. Tang. Example-Based 3D Object Reconstruction from Line Drawings. In CVPR, 2012. [[paper](http://mmlab.ie.cuhk.edu.hk/pdf/XueCVPR12.pdf)]
 
 2011
@@ -274,7 +274,7 @@ LSUN Room Layout
 
 2010 and before
 - T. Xue, J. Liu, and X. Tang. Object Cut: Complex 3D object reconstruction through line drawing separation. In CVPR 2010. [[paper](http://mmlab.ie.cuhk.edu.hk/pdf/XueCVPR10.pdf)]
-- M. Bokeloh, A. Berner, M. Wand, H. P. Seidel, and A. Schilling. Symmetry Detection Using Feature Lines. In EUROGRAPHICS, 2009.
+- M. Bokeloh, A. Berner, M. Wand, H. P. Seidel, and A. Schilling. Symmetry Detection Using Feature Lines. In EUROGRAPHICS, 2009. [[paper](https://www.cs.princeton.edu/courses/archive/spring11/cos598A/pdfs/Bokeloh09.pdf)]
 - L. Cao, J. Liu, and X. Tang. What the Back of the Object Looks Like: 3D Reconstruction from Line Drawings without Hidden Lines. PAMI 2008. [[paper](http://mmlab.ie.cuhk.edu.hk/pdf/CaoTPAMI08.pdf)]
 - M. Pauly, N. J. Mitra, J. Wallner, H. Pottmann, and L. J. Guibas. Discovering Structural Regularity in 3D Geometry. In SIGGRAPH, 2008. [[paper](https://lgg.epfl.ch/publications/2008/pauly_2008_DSR.pdf)]
 - Y. Wang, Y. Chen, J. Liu, and X. Tang. 3D Reconstruction of Curved Objects from Single 2D Line Drawings. In CVPR, 2008. [[paper](http://mmlab.ie.cuhk.edu.hk/pdf/yzWangCVPR08.pdf)]
