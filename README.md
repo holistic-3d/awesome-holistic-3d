@@ -255,7 +255,7 @@ LSUN Room Layout
 
 2018
 - J. Wu, T. Xue, J. J. Lim, Y. Tian, J. B. Tenenbaum, A. Torralba, and W. T. Freeman. 3d interpreter networks for viewer centered wireframe modeling. IJCV, 2018. [[project](http://3dinterpreter.csail.mit.edu/)]
-- C. Niu, J. Li, and K. Xu. Im2struct: Recovering 3d shape structure from a single RGB image. In CVPR, 2018. [[code](https://github.com/chengjieniu/Im2Struct)]
+- C. Niu, J. Li, and K. Xu. Im2struct: Recovering 3d shape structure from a single RGB image. In CVPR, 2018. [[project](https://github.com/chengjieniu/Im2Struct)]
 
 2017
 - C. Zou, E. Yumer, J. Yang, D. Ceylan, and D. Hoiem. 3D-PRNN: Generating Shape Primitives with Recurrent Neural Networks. In ICCV, 2017. [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zou_3D-PRNN_Generating_Shape_ICCV_2017_paper.pdf)]
