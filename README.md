@@ -190,14 +190,14 @@ LSUN Room Layout
 - C. Lee, V. Badrinarayanan, T. Malisiewicz, and A. Rabinovich. RoomNet: End-to-end room layout estimation. In ICCV, 2017. [[paper](https://arxiv.org/abs/1703.06241)]
 - H. Izadinia, Q. Shan, and S. M. Seitz. IM2CAD. In CVPR, 2017. [[project](https://homes.cs.washington.edu/~izadinia/im2cad.html)]
 - E. Wijmans and Y. Furukawa. Exploiting 2D Floorplan for Building-scale Panorama RGBD Alignment. In CVPR, 2017. [[project](https://cvpr17.wijmans.xyz/)]
-- T. Kelly, J. Femiani, P. Wonka, and N. Mitra. BigSUR: Large-scale Structured Urban Reconstruction. In SIGGRAPH Asia, 2017.
+- T. Kelly, J. Femiani, P. Wonka, and N. Mitra. BigSUR: Large-scale Structured Urban Reconstruction. In SIGGRAPH Asia, 2017. [[paper](https://geometry.cs.ucl.ac.uk/projects/2017/bigsur/paper_docs/paper.pdf)]
 
 2016
-- M. Li, P. Wonka, and L. Nan. Manhattan-world Urban Reconstruction from Point Clouds. In ECCV, 2016.
+- M. Li, P. Wonka, and L. Nan. Manhattan-world Urban Reconstruction from Point Clouds. In ECCV, 2016. [[paper](https://3d.bk.tudelft.nl/liangliang/publications/2016/manhattan/manhattan_eccv2016.pdf)]
 - C. Zhu, Z. Zhou, Z. Xing, Y. Dong, Y. Ma, and J. Yu. Robust Plane-based Calibration of Multiple Non-Overlapping Cameras. In 3DV, 2016. [[paper](https://faculty.ist.psu.edu/zzhou/paper/3dv16-calibration.pdf)]
 - C. Liu, P. Kohli, and Y. Furukawa. Layered Scene Decomposition via the Occlusion-CRF. In CVPR, 2016. [[project](https://sites.wustl.edu/chenliu/layered-scene/)]
 - S. Dasgupta, K. Fang, K. Chen, and S. Savarese. Delay: Robust spatial layout estimation for cluttered indoor scenes. In CVPR, 2016. [[paper](http://cvgl.stanford.edu/papers/delay-robust-spatial.pdf)]
-- S. Oesau, F. Lafarge and P. Alliez. Planar Shape Detection and Regularization in Tandem. Computer Graphics Forum, 2016. [[paper](https://geometry.cs.ucl.ac.uk/projects/2017/bigsur/paper_docs/paper.pdf)]
+- S. Oesau, F. Lafarge and P. Alliez. Planar Shape Detection and Regularization in Tandem. Computer Graphics Forum, 2016. [[paper](https://hal.inria.fr/hal-01168394/document)]
 
 2015
 - S. Ikehata, H. Yan, and Y. Furukawa. Structured Indoor Modeling. In ICCV, 2015. [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ikehata_Structured_Indoor_Modeling_ICCV_2015_paper.pdf)]
