@@ -18,7 +18,7 @@ A list of papers and resources for holistic 3D reconstruction.
 | [Wireframe](https://github.com/huangkuns/wireframe) | - | - | 5,462 | wireframe (2D) |
 | [Wireframe Reconstruction](https://yichaozhou.com/publication/1811learning/) | synthetic and real images | - | - | wireframe (3D) |
 | [SUN Primitive](http://3dvision.princeton.edu/projects/2012/SUNprimitive/) | - | - | 785 | cuboid, pyramid, cylinder, sphere, etc. |
-| LSUN Room Layout | - | n/a | 5,396 | cuboid layout |
+| LSUN Room Layout | - | n/a | 5,394 | cuboid layout |
 | [PanoContext](http://panocontext.cs.princeton.edu/) | - | n/a | 500 (pano) | cuboid layout |
 | [LayoutNet](https://github.com/zouchuhang/LayoutNet) | - | n/a | 1,071 (pano) | cuboid layout |
 | [MatterportLayout](https://github.com/ericsujw/Matterport3DLayoutAnnotation) | - | n/a | 2,295 (RGB-D pano) | Manhattan layout |
@@ -162,6 +162,9 @@ LSUN Room Layout
 
 ### Papers - Scene level
 
+2020
+- J. Zheng*, J. Zhang*, J. Li, R. Tang, S. Gao, and Z. Zhou.  Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling. ECCV, 2020. [[project](https://structured3d-dataset.org/)]
+
 2019
 - Y. Zhou, H. Qi, and Y. Ma. NeurVPS: Neural Vanishing Point Scanning via Conic Convolution. In NeurIPS, 2019.  [[project](https://github.com/zhou13/neurvps)]
 - Y. Zhou, H. Qi, and Y. Ma. End-to-End Wireframe Parsing. In ICCV, 2019. [[project](https://github.com/zhou13/lcnn)]
@@ -169,7 +172,6 @@ LSUN Room Layout
 - J. Chen, C. Liu, J. Wu, and Y. Furukawa. Floor-SP: Inverse CAD for Floorplans by Sequential Room-wise Shortest Path. In ICCV, 2019. [[project](https://github.com/woodfrog/floor-sp)]
 - J. Wald, A. Avetisyan, N. Navab, F. Tombari, and M. Niessner. RIO: 3D Object Instance Re-Localization in Changing Indoor Environments. In ICCV, 2019. [[project](https://waldjohannau.github.io/RIO/)]
 - C. Zou*, J.-W. Su*, C.-H. Peng, A. Colburn, Q. Shan, P. Wonka, H.-K. Chu, and D. Hoiem. 3D Manhattan Room Layout Reconstruction from a Single 360 Image, 2019. arXiv:1910.04099, 2019. [[project](https://github.com/ericsujw/Matterport3DLayoutAnnotation)]
-- J. Zheng*, J. Zhang*, J. Li*, R. Tang, S. Gao, and Z. Zhou.  Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling. arXiv:1908.00222, 2019. [[project](https://structured3d-dataset.org/)]
 - C. Liu, K. Kim, J. Gu, Y. Furukawa, and J. Kautz. PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image. In CVPR, 2019. [[project](https://research.nvidia.com/publication/2019-06_PlaneRCNN)]
 - Z. Yu*, J. Zheng*, D. Lian, Z. Zhou, and S. Gao. Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding. In CVPR, 2019. [[project](https://github.com/svip-lab/PlanarReconstruction)]
 - Z. Zhang*, Z. Li*, N. Bi, J. Zheng, J. Wang, K. Huang, W. Luo, Y. Xu, and S. Gao. PPGNet: Learning Point-Pair Graph for Line Segment Detection. In CVPR, 2019. [[project](https://github.com/svip-lab/PPGNet)]
