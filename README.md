@@ -163,7 +163,9 @@ LSUN Room Layout
 ### Papers - Scene level
 
 2020
-- J. Zheng*, J. Zhang*, J. Li, R. Tang, S. Gao, and Z. Zhou.  Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling. ECCV, 2020. [[project](https://structured3d-dataset.org/)]
+- J. Zheng*, J. Zhang*, J. Li, R. Tang, S. Gao, and Z. Zhou. Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling. ECCV, 2020. [[project](https://structured3d-dataset.org/)]
+- Y. Nie, X. Han, S. Guo, Y. Zheng, J. Chang, J. J. Zhang. Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes From a Single Image. In CVPR, 2020.
+- Z. Jiang, B. Liu, S. Schulter, Z. Wang, M. Chandraker. Peek-a-Boo: Occlusion Reasoning in Indoor Scenes With Plane Representations. In CVPR, 2020.
 
 2019
 - Y. Zhou, H. Qi, and Y. Ma. NeurVPS: Neural Vanishing Point Scanning via Conic Convolution. In NeurIPS, 2019.  [[project](https://github.com/zhou13/neurvps)]
@@ -205,6 +207,7 @@ LSUN Room Layout
 - S. Ikehata, H. Yan, and Y. Furukawa. Structured Indoor Modeling. In ICCV, 2015. [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ikehata_Structured_Indoor_Modeling_ICCV_2015_paper.pdf)]
 - O. Haines and A. Calway. Recognising planes in a single image. IEEE TPAMI, 2015. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6987324)]
 - A. Monszpart, N. Mellado, G. J. Brostow, and N. J. Mitra. RAPTER: Rebuilding Man-made Scenes with Regular Arrangements of Planes. In SIGGRAPH, 2015. [[paper](https://geometry.cs.ucl.ac.uk/projects/2015/regular-arrangements-of-planes/paper_docs/RAPter_MonszpartEtAl_SIGGRAPH_2015.pdf)]
+- J. Favreau, F. Lafarge, and A. Bousseau. Line Drawing Interpretation in a Multi-View Context. In CVPR, 2015.
 
 2014
 - D. F. Fouhey, A. Gupta, and M. Hebert. Unfolding an indoor origami world. In ECCV, 2014. [[paper](https://ri.cmu.edu/pub_files/2014/7/dfouhey_origami.pdf)]
@@ -248,6 +251,9 @@ LSUN Room Layout
 - A. P. Witkin and J. M. Tenenbaum. On the role of structure in vision. In J. Beck, B. Hope, and A. Rosenfeld, editors, Human and Machine Vision, pages 481–543. Academic Press, 1983. [[paper](http://cvcl.mit.edu/SUNSeminar/BarenholtzTarr_2007.pdf)]
 
 ### Papers - Object level
+
+2020
+- M. Gadelha, G. Gori, D. Ceylan, R. Měch, M. Carr, T. Boubekeur, R. Wang, S. Maji. Learning Generative Models of Shape Handles. In CVPR, 2020.
 
 2019
 - K. Mo, P. Guerrero, L. Yi, H. Su, P. Wonka, N. J. Mitra, and L. Guibas. StructureNet: Hierarchical Graph Networks for 3D Shape Generation. In SIGGRAPH Asia, 2019. [[project](https://cs.stanford.edu/~kaichun/structurenet/)]
