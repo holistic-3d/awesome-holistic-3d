@@ -164,10 +164,11 @@ LSUN Room Layout
 
 2020
 - J. Zheng*, J. Zhang*, J. Li, R. Tang, S. Gao, and Z. Zhou. Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling. In ECCV, 2020. [[project](https://structured3d-dataset.org/)]
-- Y. Nie, X. Han, S. Guo, Y. Zheng, J. Chang, J. J. Zhang. Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes From a Single Image. In CVPR, 2020.
-- Z. Jiang, B. Liu, S. Schulter, Z. Wang, M. Chandraker. Peek-a-Boo: Occlusion Reasoning in Indoor Scenes With Plane Representations. In CVPR, 2020.
-- H. Zeng, K. Joseph, A. Vest, and Y. Furukawa. Bundle Pooling for Polygonal Architecture Segmentation Problem. In CVPR, 2020.
-- F. Zhang, N. Nauata, and Y. Furukawa. Conv-MPN: Convolutional Message Passing Neural Network for Structured Outdoor Architecture Reconstruction. In CVPR, 2020.
+- Y. Qian, and Y. Furukawa. Learning Inter-Plane Relations for Piecewise Planar Reconstruction. In ECCV, 2020.
+- Y. Nie, X. Han, S. Guo, Y. Zheng, J. Chang, and J. J. Zhang. Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes From a Single Image. In CVPR, 2020. [[project](https://yinyunie.github.io/Total3D/)]
+- Z. Jiang, B. Liu, S. Schulter, Z. Wang, and M. Chandraker. Peek-a-Boo: Occlusion Reasoning in Indoor Scenes With Plane Representations. In CVPR, 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Jiang_Peek-a-Boo_Occlusion_Reasoning_in_Indoor_Scenes_With_Plane_Representations_CVPR_2020_paper.html)]
+- H. Zeng, K. Joseph, A. Vest, and Y. Furukawa. Bundle Pooling for Polygonal Architecture Segmentation Problem. In CVPR, 2020. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zeng_Bundle_Pooling_for_Polygonal_Architecture_Segmentation_Problem_CVPR_2020_paper.html)]
+- F. Zhang, N. Nauata, and Y. Furukawa. Conv-MPN: Convolutional Message Passing Neural Network for Structured Outdoor Architecture Reconstruction. In CVPR, 2020. [[project](https://ennauata.github.io/buildings2vec/page.html)]
 
 2019
 - Y. Zhou, H. Qi, and Y. Ma. NeurVPS: Neural Vanishing Point Scanning via Conic Convolution. In NeurIPS, 2019.  [[project](https://github.com/zhou13/neurvps)]
