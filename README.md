@@ -169,7 +169,7 @@ LSUN Room Layout
 - Z. Jiang, B. Liu, S. Schulter, Z. Wang, and M. Chandraker. Peek-a-Boo: Occlusion Reasoning in Indoor Scenes With Plane Representations. In CVPR, 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Jiang_Peek-a-Boo_Occlusion_Reasoning_in_Indoor_Scenes_With_Plane_Representations_CVPR_2020_paper.html)]
 - H. Zeng, K. Joseph, A. Vest, and Y. Furukawa. Bundle Pooling for Polygonal Architecture Segmentation Problem. In CVPR, 2020. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zeng_Bundle_Pooling_for_Polygonal_Architecture_Segmentation_Problem_CVPR_2020_paper.html)]
 - F. Zhang, N. Nauata, and Y. Furukawa. Conv-MPN: Convolutional Message Passing Neural Network for Structured Outdoor Architecture Reconstruction. In CVPR, 2020. [[project](https://ennauata.github.io/buildings2vec/page.html)]
-- Qian, Shengyi, Linyi Jin, and David F. Fouhey. "Associative3D: Volumetric Reconstruction from Sparse Views." In ECCV, 2020. [[project](https://jasonqsy.github.io/Associative3D/)]
+- Qian, Shengyi, Linyi Jin, and David F. Fouhey. Associative3D: Volumetric Reconstruction from Sparse Views. In ECCV, 2020. [[project](https://jasonqsy.github.io/Associative3D/)]
 - Pintore, Giovanni, Marco Agus, and Enrico Gobbetti. AtlantaNet: Inferring the 3D Indoor Layout from a Single 360 Image Beyond the Manhattan World Assumption. In ECCV, 2020. [[project](https://www.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2020:AI3%27)]
 - Avetisyan, Armen, et al. SceneCAD: Predicting Object Alignments and Layouts in RGB-D Scans. In ECCV, 2020. [[paper](https://arxiv.org/pdf/2003.12622.pdf)]
 - Lin, Yancong, Silvia L. Pintea, and Jan C. van Gemert. Deep Hough-Transform Line Priors. In ECCV, 2020. [[project](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors)]
@@ -261,12 +261,16 @@ LSUN Room Layout
 
 2020
 - M. Gadelha, G. Gori, D. Ceylan, R. Měch, M. Carr, T. Boubekeur, R. Wang, S. Maji. Learning Generative Models of Shape Handles. In CVPR, 2020.
+- Xu, Yifan, et al. Ladybird: Quasi-monte carlo sampling for deep implicit field based 3d reconstruction with symmetry. In ECCV, 2020. [[paper](https://arxiv.org/abs/1811.08988)]
+- Lin, Cheng, et al. Modeling 3d shapes by reinforcement learning. In ECCV, 2020. [[paper](https://arxiv.org/abs/2003.12397)]
+- Li, Yichen, et al. Learning 3d part assembly from a single image. In ECCV, 2020. [[project](https://cs.stanford.edu/~kaichun/impartass/)]
+- Zhang, Zaiwei, et al. H3dnet: 3d object detection using hybrid geometric primitives. In ECCV, 2020. [[project](https://github.com/zaiweizhang/H3DNet)]
 
 2019
 - K. Mo, P. Guerrero, L. Yi, H. Su, P. Wonka, N. J. Mitra, and L. Guibas. StructureNet: Hierarchical Graph Networks for 3D Shape Generation. In SIGGRAPH Asia, 2019. [[project](https://cs.stanford.edu/~kaichun/structurenet/)]
 - C. Sun, Q. Zou, X. Tong, and Y. Liu. Learning Adaptive Hierarchical Cuboid Abstractions of 3D Shape Collections. In SIGGRAPH Asia, 2019. [[project](https://isunchy.github.io/projects/cuboid_abstraction.html)]
 - D. Paschalidou, A. O. Ulusoy, and A. Geiger. Superquadrics Revisited: Learning 3D Shape Parsing beyond Cuboids. In CVPR, 2019. [[paper](https://arxiv.org/abs/1904.09970)]
-- L. Li, M. Sung, A. Dubrovina, L. Yi, and L. Guibas. Supervised Fitting of Geometric Primitives to 3D Point Clouds. In CVPR, 2019. [[paper](https://arxiv.org/abs/1811.08988)]
+- L. Li, M. Sung, A. Dubrovina, L. Yi, and L. Guibas. Supervised Fitting of Geometric Primitives to 3D Point Clouds. In CVPR, 2019. [[project](https://github.com/FuxiCV/Ladybird)]
 
 2018
 - J. Wu, T. Xue, J. J. Lim, Y. Tian, J. B. Tenenbaum, A. Torralba, and W. T. Freeman. 3d interpreter networks for viewer centered wireframe modeling. IJCV, 2018. [[project](http://3dinterpreter.csail.mit.edu/)]
