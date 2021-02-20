@@ -169,6 +169,10 @@ LSUN Room Layout
 - Z. Jiang, B. Liu, S. Schulter, Z. Wang, and M. Chandraker. Peek-a-Boo: Occlusion Reasoning in Indoor Scenes With Plane Representations. In CVPR, 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Jiang_Peek-a-Boo_Occlusion_Reasoning_in_Indoor_Scenes_With_Plane_Representations_CVPR_2020_paper.html)]
 - H. Zeng, K. Joseph, A. Vest, and Y. Furukawa. Bundle Pooling for Polygonal Architecture Segmentation Problem. In CVPR, 2020. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zeng_Bundle_Pooling_for_Polygonal_Architecture_Segmentation_Problem_CVPR_2020_paper.html)]
 - F. Zhang, N. Nauata, and Y. Furukawa. Conv-MPN: Convolutional Message Passing Neural Network for Structured Outdoor Architecture Reconstruction. In CVPR, 2020. [[project](https://ennauata.github.io/buildings2vec/page.html)]
+- Qian, Shengyi, Linyi Jin, and David F. Fouhey. "Associative3D: Volumetric Reconstruction from Sparse Views." In ECCV, 2020. [[project](https://jasonqsy.github.io/Associative3D/)]
+- Pintore, Giovanni, Marco Agus, and Enrico Gobbetti. AtlantaNet: Inferring the 3D Indoor Layout from a Single 360 Image Beyond the Manhattan World Assumption. In ECCV, 2020. [[project](https://www.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2020:AI3%27)]
+- Avetisyan, Armen, et al. SceneCAD: Predicting Object Alignments and Layouts in RGB-D Scans. In ECCV, 2020. [[paper](https://arxiv.org/pdf/2003.12622.pdf)]
+- Lin, Yancong, Silvia L. Pintea, and Jan C. van Gemert. Deep Hough-Transform Line Priors. In ECCV, 2020. [[project](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors)]
 
 2019
 - Y. Zhou, H. Qi, and Y. Ma. NeurVPS: Neural Vanishing Point Scanning via Conic Convolution. In NeurIPS, 2019.  [[project](https://github.com/zhou13/neurvps)]
