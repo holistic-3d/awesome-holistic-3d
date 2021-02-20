@@ -163,12 +163,12 @@ LSUN Room Layout
 ### Papers - Scene level
 
 2020
-- J. Zheng*, J. Zhang*, J. Li, R. Tang, S. Gao, and Z. Zhou. Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling. In ECCV, 2020. [[project](https://structured3d-dataset.org/)]
-- Y. Qian, and Y. Furukawa. Learning Inter-Plane Relations for Piecewise Planar Reconstruction. In ECCV, 2020.
 - Y. Nie, X. Han, S. Guo, Y. Zheng, J. Chang, and J. J. Zhang. Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes From a Single Image. In CVPR, 2020. [[project](https://yinyunie.github.io/Total3D/)]
 - Z. Jiang, B. Liu, S. Schulter, Z. Wang, and M. Chandraker. Peek-a-Boo: Occlusion Reasoning in Indoor Scenes With Plane Representations. In CVPR, 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Jiang_Peek-a-Boo_Occlusion_Reasoning_in_Indoor_Scenes_With_Plane_Representations_CVPR_2020_paper.html)]
 - H. Zeng, K. Joseph, A. Vest, and Y. Furukawa. Bundle Pooling for Polygonal Architecture Segmentation Problem. In CVPR, 2020. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zeng_Bundle_Pooling_for_Polygonal_Architecture_Segmentation_Problem_CVPR_2020_paper.html)]
 - F. Zhang, N. Nauata, and Y. Furukawa. Conv-MPN: Convolutional Message Passing Neural Network for Structured Outdoor Architecture Reconstruction. In CVPR, 2020. [[project](https://ennauata.github.io/buildings2vec/page.html)]
+- J. Zheng*, J. Zhang*, J. Li, R. Tang, S. Gao, and Z. Zhou. Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling. In ECCV, 2020. [[project](https://structured3d-dataset.org/)]
+- Y. Qian, and Y. Furukawa. Learning Inter-Plane Relations for Piecewise Planar Reconstruction. In ECCV, 2020.
 - Qian, Shengyi, Linyi Jin, and David F. Fouhey. Associative3D: Volumetric Reconstruction from Sparse Views. In ECCV, 2020. [[project](https://jasonqsy.github.io/Associative3D/)]
 - Pintore, Giovanni, Marco Agus, and Enrico Gobbetti. AtlantaNet: Inferring the 3D Indoor Layout from a Single 360 Image Beyond the Manhattan World Assumption. In ECCV, 2020. [[project](https://www.crs4.it/vic/cgi-bin/bib-page.cgi?id=%27Pintore:2020:AI3%27)]
 - Avetisyan, Armen, et al. SceneCAD: Predicting Object Alignments and Layouts in RGB-D Scans. In ECCV, 2020. [[paper](https://arxiv.org/pdf/2003.12622.pdf)]
